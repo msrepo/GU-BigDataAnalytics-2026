@@ -4,6 +4,8 @@
 
 *Jure Leskovec, Anand Rajaraman, Jeff Ullman*
 
+Academic Integrity Statement: Students are graded and expected to submit honest work rather than plaigiarized or AI-generated polished work. You can discuss problems with your colleagues, but work independently on the submission of assignments. Please Do not plagiarize by directly copying from other sources. In addition, please disclose if and how, you've used AI in your assignment. 
+
 ### Lectures: Wed/Fri 7:8.30 PM NPT Online
 
 Instructors: Mahesh Shakya & Siva Ram Dam
